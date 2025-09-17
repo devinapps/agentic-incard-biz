@@ -1,0 +1,6 @@
+{
+    "name": "Example",
+    "type": "extension",
+    "version": "1.0.0",
+	"description": "Example extension for MagicAI"
+}

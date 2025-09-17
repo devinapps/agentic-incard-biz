@@ -1,0 +1,8 @@
+{
+    "name": "Chatbot",
+    "type": "extension",
+	"version": "3.4.0",
+    "description": "External chatbot extension for magicai"
+}
+
+
